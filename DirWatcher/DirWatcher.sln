@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirWatcher", "module\DirWatcher\DirWatcher.vcxproj", "{A146566A-1E17-40A6-AD8A-86BAA3F68AC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_module", "1_module", "{ACD25997-9334-4D36-92B6-4D3702E83EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A146566A-1E17-40A6-AD8A-86BAA3F68AC6}.Debug|x64.ActiveCfg = Debug|x64
+		{A146566A-1E17-40A6-AD8A-86BAA3F68AC6}.Debug|x64.Build.0 = Debug|x64
+		{A146566A-1E17-40A6-AD8A-86BAA3F68AC6}.Release|x64.ActiveCfg = Release|x64
+		{A146566A-1E17-40A6-AD8A-86BAA3F68AC6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A146566A-1E17-40A6-AD8A-86BAA3F68AC6} = {ACD25997-9334-4D36-92B6-4D3702E83EA7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8CEE52-492A-4393-9DD8-1A14948800DE}
+	EndGlobalSection
+EndGlobal
